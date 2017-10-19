@@ -1,0 +1,25 @@
+body{
+  font-family: "palatino linotype", "book antiqua", Palatino, serif;
+  color: #0000ff;
+  padding: 200px;
+}
+
+h1{
+  color: #ffffff;
+  background-color: #00ff00;
+}
+
+p{
+  background-color: #ff66cc;
+  color: #ffffff;
+}
+
+.oh {
+  background-color: #ffffff;
+  color: #b3b3b3
+}
+.magical_box {
+  border: 2px solid #665544;
+  padding: inherit;
+  background-color: #efefef;
+}
